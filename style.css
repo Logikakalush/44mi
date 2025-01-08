@@ -1,0 +1,32 @@
+body{
+    background-color: chartreuse;
+}
+nav{
+    background-color: aliceblue;
+    padding: 30px;
+}
+footer p{
+    text-align: center;
+    font-size: 30px;
+}
+h1{
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    border: 10px solid chartreuse;
+    margin: 20px;
+    padding: 10px;
+
+}
+h2{
+    color: rgb(255, 255, 255);
+    font-family:monospace;
+}
+footer{
+   border: 30px solid chartreuse
+}
+img{
+    width: 650px;
+}
